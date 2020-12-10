@@ -1,11 +1,11 @@
 import "./App.css";
-import ColorBox from './components/ColorBox/index'
+import Country from "./components/Country";
 
 function App() {
   return (
     <div className="App">
       <h1>Welcome to React Hooks!</h1>
-      <ColorBox />
+      <Country />
     </div>
   );
 }
