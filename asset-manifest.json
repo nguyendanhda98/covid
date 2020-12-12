@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid-19.github.io/static/css/main.a17522ba.chunk.css",
+    "main.js": "/covid-19.github.io/static/js/main.25f6cdf6.chunk.js",
+    "main.js.map": "/covid-19.github.io/static/js/main.25f6cdf6.chunk.js.map",
+    "runtime-main.js": "/covid-19.github.io/static/js/runtime-main.0b1f0fef.js",
+    "runtime-main.js.map": "/covid-19.github.io/static/js/runtime-main.0b1f0fef.js.map",
+    "static/js/2.023affcf.chunk.js": "/covid-19.github.io/static/js/2.023affcf.chunk.js",
+    "static/js/2.023affcf.chunk.js.map": "/covid-19.github.io/static/js/2.023affcf.chunk.js.map",
+    "static/js/3.7a60ec29.chunk.js": "/covid-19.github.io/static/js/3.7a60ec29.chunk.js",
+    "static/js/3.7a60ec29.chunk.js.map": "/covid-19.github.io/static/js/3.7a60ec29.chunk.js.map",
+    "index.html": "/covid-19.github.io/index.html",
+    "static/css/main.a17522ba.chunk.css.map": "/covid-19.github.io/static/css/main.a17522ba.chunk.css.map",
+    "static/js/2.023affcf.chunk.js.LICENSE.txt": "/covid-19.github.io/static/js/2.023affcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b1f0fef.js",
+    "static/js/2.023affcf.chunk.js",
+    "static/css/main.a17522ba.chunk.css",
+    "static/js/main.25f6cdf6.chunk.js"
+  ]
+}
